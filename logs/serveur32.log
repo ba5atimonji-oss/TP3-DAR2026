@@ -1,0 +1,41 @@
+Serveur calculatrice multi-thread démarré sur le port 1234...
+Client n°1 connecté - adresse : /192.0.2.2:44890
+Client n°2 connecté - adresse : /192.0.2.2:44892
+Client n°3 connecté - adresse : /192.0.2.2:44898
+Client n°4 connecté - adresse : /192.0.2.2:44910
+Client n°5 connecté - adresse : /192.0.2.2:44916
+[Client n°1] 12.0 + 5.0 = 17.0 | compteur global = 1
+[Client n°4] 12.0 + 5.0 = 17.0 | compteur global = 2
+[Client n°3] 12.0 + 5.0 = 17.0 | compteur global = 3
+[Client n°2] 12.0 + 5.0 = 17.0 | compteur global = 4
+[Client n°5] 12.0 + 5.0 = 17.0 | compteur global = 5
+[Client n°1] 10.0 / 4.0 = 2.5 | compteur global = 6
+[Client n°4] 10.0 / 4.0 = 2.5 | compteur global = 7
+[Client n°2] 10.0 / 4.0 = 2.5 | compteur global = 8
+[Client n°5] 10.0 / 4.0 = 2.5 | compteur global = 9
+[Client n°4] 7.0 * 6.0 = 42.0 | compteur global = 10
+[Client n°1] 7.0 * 6.0 = 42.0 | compteur global = 11
+[Client n°3] 10.0 / 4.0 = 2.5 | compteur global = 12
+[Client n°2] 7.0 * 6.0 = 42.0 | compteur global = 13
+[Client n°5] 7.0 * 6.0 = 42.0 | compteur global = 14
+[Client n°3] 7.0 * 6.0 = 42.0 | compteur global = 15
+[Client n°4] 9.0 / 0.0 = Division par zéro | compteur global = 16
+[Client n°1] 9.0 / 0.0 = Division par zéro | compteur global = 17
+[Client n°2] 9.0 / 0.0 = Division par zéro | compteur global = 18
+[Client n°5] 9.0 / 0.0 = Division par zéro | compteur global = 19
+[Client n°3] 9.0 / 0.0 = Division par zéro | compteur global = 20
+[Client n°4] 8.0 - 20.0 = -12.0 | compteur global = 21
+[Client n°1] 8.0 - 20.0 = -12.0 | compteur global = 22
+[Client n°2] 8.0 - 20.0 = -12.0 | compteur global = 23
+[Client n°5] 8.0 - 20.0 = -12.0 | compteur global = 24
+[Client n°3] 8.0 - 20.0 = -12.0 | compteur global = 25
+[Client n°4] 2.0 ^ 3.0 = Opérateur inconnu : ^ | compteur global = 26
+[Client n°1] 2.0 ^ 3.0 = Opérateur inconnu : ^ | compteur global = 27
+[Client n°2] 2.0 ^ 3.0 = Opérateur inconnu : ^ | compteur global = 28
+[Client n°5] 2.0 ^ 3.0 = Opérateur inconnu : ^ | compteur global = 29
+Client n°4 déconnecté.
+[Client n°3] 2.0 ^ 3.0 = Opérateur inconnu : ^ | compteur global = 30
+Client n°2 déconnecté.
+Client n°1 déconnecté.
+Client n°5 déconnecté.
+Client n°3 déconnecté.

@@ -1,0 +1,13 @@
+Serveur multi-thread démarré sur le port 1234...
+Client n°1 connecté - adresse : /192.0.2.2:54656
+[Client n°1] salut telnet
+[Client n°1] quit
+Client n°1 déconnecté.
+Client n°2 connecté - adresse : /192.0.2.2:54658
+[Client n°2] bonjour
+[Client n°2] quit
+Client n°2 déconnecté.
+Client n°3 connecté - adresse : /192.0.2.2:54670
+[Client n°3] hello
+[Client n°3] quit
+Client n°3 déconnecté.

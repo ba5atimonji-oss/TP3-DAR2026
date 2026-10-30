@@ -1,0 +1,9 @@
+Connecté au serveur /192.0.2.2:1234
+Serveur : Bienvenue ! Vous êtes le client n°3
+Opération (ex: 12 + 5, 'q' pour quitter) > Résultat : 12.0 + 5.0 = 17.0
+Opération (ex: 12 + 5, 'q' pour quitter) > Résultat : 10.0 / 4.0 = 2.5
+Opération (ex: 12 + 5, 'q' pour quitter) > Résultat : 7.0 * 6.0 = 42.0
+Opération (ex: 12 + 5, 'q' pour quitter) > Erreur : Division par zéro
+Opération (ex: 12 + 5, 'q' pour quitter) > Résultat : 8.0 - 20.0 = -12.0
+Opération (ex: 12 + 5, 'q' pour quitter) > Erreur : Opérateur inconnu : ^
+Opération (ex: 12 + 5, 'q' pour quitter) > 
